@@ -1,7 +1,10 @@
-# OnBoardVolcanicEruptionDetection
-Repository for "On Board Volcanic Eruption Detection through CNNs andSatellite Multispectral Imagery"
+# On Board Volcanic Eruption Detection
 
-Please cite this paper:
+![](imgs/dataset.png)
+
+Repository for "On Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery"
+
+If you want to use our dataset plase cite our work:
 
     @article{del2021board,
       title={On-board volcanic eruption detection through cnns and satellite multispectral imagery},
